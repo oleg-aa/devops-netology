@@ -15,3 +15,4 @@ override.tf.json игнорировать этот файл
 *_override.tf.json игнорировать файлы с расширением .json, имена файлов которых заканчиваются на _override.tf
 .terraformrc игнорировать этот файл
 terraform.rc игнорировать этот файл
+new line
